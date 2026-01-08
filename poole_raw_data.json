@@ -1,0 +1,223 @@
+{
+  "team_name": "Poole",
+  "leagues": [
+    "Monday Night",
+    "Tuesday Night"
+  ],
+  "monday_raw_data": [
+    {
+      "line": "6:15pm Christie Pinder Marshall Poole Robinson Cameron Ferguson Kelly",
+      "context": "Date Sheet 1 Sheet 2 Sheet 3 Sheet 4 Sheet 5 Sheet 6 Sheet 7 Sheet 8\nOct 6 Birrell Snethun Moss Plaid Lads Erickson Bailey Wright Fairbanks\n6:15pm Christie Pinder Marshall Poole Robinson Cameron Ferguson Kelly\nOct 6 Phelps Gregg Bonyai Williams Kennedy Linder\n8:30pm Fairhurst Kerbals Martin Carson O\u2019Neil Bowman",
+      "page": 1
+    },
+    {
+      "line": "8:30pm Wright Marshall Pinder Robinson Poole Ferguson",
+      "context": "6:15pm Fairbanks Martin Kerbals O\u2019Neil Carson Kelly Bowman Cameron\nOct 20 Bailey Christie Birrell Moss Snethun Erickson\n8:30pm Wright Marshall Pinder Robinson Poole Ferguson\nOct 27 Snethun Plaid Lads Christie Birrell Moss Pinder Erickson Kennedy\n6:15pm Cameron Wright Robinson Marshall Ferguson Poole Bailey Linder",
+      "page": 1
+    },
+    {
+      "line": "6:15pm Cameron Wright Robinson Marshall Ferguson Poole Bailey Linder",
+      "context": "8:30pm Wright Marshall Pinder Robinson Poole Ferguson\nOct 27 Snethun Plaid Lads Christie Birrell Moss Pinder Erickson Kennedy\n6:15pm Cameron Wright Robinson Marshall Ferguson Poole Bailey Linder\nOct 27 Gregg Williams Fairhurst Phelps Bonyai Kerbals\n8:30pm Bowman Fairbanks O\u2019Neil Martin Kelly Carson",
+      "page": 1
+    },
+    {
+      "line": "6:15pm Kennedy Fairbanks Bowman Kelly Carson O\u2019Neil Linder Poole",
+      "context": "8:30pm Bowman Fairbanks O\u2019Neil Martin Kelly Carson\nNov 3 Williams Gregg Kerbals Fairhurst Phelps Martin Bonyai Birrell\n6:15pm Kennedy Fairbanks Bowman Kelly Carson O\u2019Neil Linder Poole\nNov 3 Plaid Lads Moss Snethun Pinder Marshall Christie\n8:30pm Erickson Bailey Wright Cameron Robinson Ferguson",
+      "page": 1
+    },
+    {
+      "line": "Nov 10 Pinder Christie Moss Snethun Poole Birrell Marshall Bonyai",
+      "context": "Nov 3 Plaid Lads Moss Snethun Pinder Marshall Christie\n8:30pm Erickson Bailey Wright Cameron Robinson Ferguson\nNov 10 Pinder Christie Moss Snethun Poole Birrell Marshall Bonyai\n6:15pm Wright Bailey Plaid Lads Erickson Camerson Robinson Ferguson Williams\nNov 10 Kerbals Martin Gregg Carson Phelps Fairhurst",
+      "page": 1
+    },
+    {
+      "line": "Nov 17 Marshall Pinder Poole Christie Snethun Birrell",
+      "context": "Nov 17 Phelps Kerbals Martin Fairhurst Gregg O\u2019Neil Carson Robinson\n6:15pm Bowman Kennedy Linder Williams Bonyai Kelly Fairbanks Ferguson\nNov 17 Marshall Pinder Poole Christie Snethun Birrell\n8:30pm Bailey Erickson Wright Plaid Lads Moss Camerson",
+      "page": 1
+    },
+    {
+      "line": "Nov 24 Cameron Robinson Poole Marshall Birrell Christie Pinder Fairhurst",
+      "context": "ONDAY IGHT EN S EAGUE\nDate Sheet 1 Sheet 2 Sheet 3 Sheet 4 Sheet 5 Sheet 6 Sheet 7 Sheet 8\nNov 24 Cameron Robinson Poole Marshall Birrell Christie Pinder Fairhurst\n6:15pm Wright Bailey Erickson Plaid Lads Ferguson Snethun Moss Gregg\nNov 24 O\u2019Neil Bowman Carson Kerbals Martin Phelps",
+      "page": 2
+    },
+    {
+      "line": "Dec 1 Poole Birrell Ferguson Camerson Robinson Pinder",
+      "context": "Dec 1 Phelps Kelly O\u2019Neil Bowman Carson Kerbals Martin Marshall\n6:15pm Fairbanks Linder Williams Kennedy Bonyai Fairhurst Gregg Snethun\nDec 1 Poole Birrell Ferguson Camerson Robinson Pinder\n8:30pm Moss Wright Bailey Erickson Plaid Lads Christie\nDec 8 Birrell Marshall Wright Ferguson Cameron Robinson Poole Martin",
+      "page": 2
+    },
+    {
+      "line": "Dec 8 Birrell Marshall Wright Ferguson Cameron Robinson Poole Martin",
+      "context": "Dec 1 Poole Birrell Ferguson Camerson Robinson Pinder\n8:30pm Moss Wright Bailey Erickson Plaid Lads Christie\nDec 8 Birrell Marshall Wright Ferguson Cameron Robinson Poole Martin\n6:15pm Bailey Pinder Erickson Plaid Lads Moss Snethun Christie Kerbals\nDec 8 Kelly Phelps Fairbanks Bowman Carson O\u2019Neil",
+      "page": 2
+    },
+    {
+      "line": "Dec 15 Robinson Birrell Poole Ferguson Bailey Camerson",
+      "context": "Dec 15 O\u2019Neil Carson Bowman Kelly Fairbanks Linder Phelps Wright\n6:15pm Kerbals Martin Fairhurst Gregg Bonyai Williams Kennedy Moss\nDec 15 Robinson Birrell Poole Ferguson Bailey Camerson\n8:30pm Pinder Erickson Marhsall Snethun Plaid Lads Christie\nJan 5 Erickson Cameron Bailey Wright Ferguson Birrell Robinson O\u2019Neil",
+      "page": 2
+    },
+    {
+      "line": "6:15pm Moss Marshall Snethun Christie Pinder Plaid Lads Poole Carson",
+      "context": "8:30pm Pinder Erickson Marhsall Snethun Plaid Lads Christie\nJan 5 Erickson Cameron Bailey Wright Ferguson Birrell Robinson O\u2019Neil\n6:15pm Moss Marshall Snethun Christie Pinder Plaid Lads Poole Carson\nJan 5 Fairbanks Bowman Kennedy Phelps Linder Kelly\n8:30pm Fairhurst Martin Bonyai Williams Gregg Kerbals",
+      "page": 2
+    },
+    {
+      "line": "8:30pm Pinder Marshall Poole Robinson Moss Snethun",
+      "context": "6:15pm Kerbals Carson Martin O\u2019Neil Fairhurst Bonyai Gregg Christie\nJan 12 Bailey Wright Ferguson Cameron Birrell Plaid Lads\n8:30pm Pinder Marshall Poole Robinson Moss Snethun",
+      "page": 2
+    },
+    {
+      "line": "6:15pm Snethun Christie Cameron Pinder Marshall Poole Robinson Gregg",
+      "context": "Date Sheet 1 Sheet 2 Sheet 3 Sheet 4 Sheet 5 Sheet 6 Sheet 7 Sheet 8\nJan 19 Birrell Moss Ferguson Plaid Lads Erickson Bailey Wright Phelps\n6:15pm Snethun Christie Cameron Pinder Marshall Poole Robinson Gregg\nJan 19 Bonyai Kennedy Linder Fairbanks Kelly Williams\n8:30pm Fairhurst Martin Carson O\u2019Neil Bowman Kerbals",
+      "page": 3
+    }
+  ],
+  "tuesday_raw_data": [
+    {
+      "line": "6:15pm Poole Nickles Larsen Crushmore MACH Rollins Moss Flock",
+      "context": "Date Sheet 1 Sheet 2 Sheet 3 Sheet 4 Sheet 5 Sheet 6 Sheet 7 Sheet 8\nOct 7 Boog Johnson Waddell Linder Brill Balderston The Pants Clark\n6:15pm Poole Nickles Larsen Crushmore MACH Rollins Moss Flock\nOct 7 Henry Kennedy Kohlenberg Cole Moody\n8:30pm Curl Jam Only Up Annable Smith Duckworth",
+      "page": 1
+    },
+    {
+      "line": "8:30pm Balderston Poole Crushmore Larsen Rollins",
+      "context": "6:15pm Smith Curl Jam Duckworth Annable Flock Moody Only Up MACH\nOct 14 Brill The Pants Johnson Boog Linder\n8:30pm Balderston Poole Crushmore Larsen Rollins\nOct 22 The Pants Boog Johnson Waddell Poole Linder Crushmore Moss\n6:15pm Nickles MACH Rollins Balderston Larsen Brill Smith Only Up",
+      "page": 1
+    },
+    {
+      "line": "Oct 22 The Pants Boog Johnson Waddell Poole Linder Crushmore Moss",
+      "context": "Oct 14 Brill The Pants Johnson Boog Linder\n8:30pm Balderston Poole Crushmore Larsen Rollins\nOct 22 The Pants Boog Johnson Waddell Poole Linder Crushmore Moss\n6:15pm Nickles MACH Rollins Balderston Larsen Brill Smith Only Up\nOct 21 Henry Kohlenberg Curl Jam Kennedy Cole",
+      "page": 1
+    },
+    {
+      "line": "Oct 28 Waddell Johnson Boog Nickles Poole",
+      "context": "Oct 28 Kohlenberg Kennedy Henry Moss Only Up Curl Jam Rollins The Pants\n6:15pm Cole Clark Moody Annable Smith Flock Duckworth Larsen\nOct 28 Waddell Johnson Boog Nickles Poole\n8:30pm Linder Brill Balderston Crushmore MACH\nNov 4 Larsen The Pants Johnson Boog Nickles Poole Brill Only Up",
+      "page": 1
+    },
+    {
+      "line": "Nov 4 Larsen The Pants Johnson Boog Nickles Poole Brill Only Up",
+      "context": "Oct 28 Waddell Johnson Boog Nickles Poole\n8:30pm Linder Brill Balderston Crushmore MACH\nNov 4 Larsen The Pants Johnson Boog Nickles Poole Brill Only Up\n6:15pm MACH Crushmore Waddell Linder Rollins Balderston Clark Duckworth\nNov 4 Curl Jam Kennedy Henry Annable Moss",
+      "page": 1
+    },
+    {
+      "line": "Nov 11 Poole Nickles The Pants Larsen Boog",
+      "context": "Nov 11 Smith Moss Annable Curl Jam Henry Only Up Waddell Crushmore\n6:15pm Duckworth Flock Moody Cole Kennedy Clark Kohlenberg Rollins\nNov 11 Poole Nickles The Pants Larsen Boog\n8:30pm Linder Brill MACH Balderston Johnson",
+      "page": 1
+    },
+    {
+      "line": "Nov 18 Crushmore MACH The Pants Larsen Nickles Poole Boog Annable",
+      "context": "UESDAY IGHT EN S EAGUE\nDate Sheet 1 Sheet 2 Sheet 3 Sheet 4 Sheet 5 Sheet 6 Sheet 7 Sheet 8\nNov 18 Crushmore MACH The Pants Larsen Nickles Poole Boog Annable\n6:15pm Brill Balderston Rollins Linder Waddell Johnson Henry Cole\nNov 18 Smith Flock Moss Only Up Curl Jam",
+      "page": 2
+    },
+    {
+      "line": "Nov 25 Only Up Duckworth Flock Moss Smith Annable Poole Nickles",
+      "context": "Nov 18 Smith Flock Moss Only Up Curl Jam\n8:30pm Clark Moody Duckworth Kohlenberg Kennedy\nNov 25 Only Up Duckworth Flock Moss Smith Annable Poole Nickles\n6:15pm Henry Clark Cole Moody Kohlenberg Kennedy Curl Jam Boog\nNov 25 Larsen MACH Crushmore The Pants Rollins",
+      "page": 2
+    },
+    {
+      "line": "6:15pm Boog Poole Linder Waddell Johnson Brill Annable Kohlenberg",
+      "context": "8:30pm Johnson Linder Waddell Balderston Brill\nDec 2 Crushmore Nickles Balderston Rollins MACH The Pants Larsen Duckworth\n6:15pm Boog Poole Linder Waddell Johnson Brill Annable Kohlenberg\nDec 2 Smith Only Up Moody Moss Flock\n8:30pm Henry Curl Jam Cole Clark Kennedy",
+      "page": 2
+    },
+    {
+      "line": "8:30pm Nickles Boog Poole Linder Waddell",
+      "context": "6:15pm Kohlenberg Curl Jam Only Up Annable Henry Kennedy Moody Johnson\nDec 9 Larsen Rollins Crushmore The Pants Brill\n8:30pm Nickles Boog Poole Linder Waddell\nDec 16 Rollins The Pants Brill Crushmore Linder MACH Balderston Moody\n6:15pm Poole Waddell Boog Larsen Johnson Nickles Flock Kennedy",
+      "page": 2
+    },
+    {
+      "line": "6:15pm Poole Waddell Boog Larsen Johnson Nickles Flock Kennedy",
+      "context": "8:30pm Nickles Boog Poole Linder Waddell\nDec 16 Rollins The Pants Brill Crushmore Linder MACH Balderston Moody\n6:15pm Poole Waddell Boog Larsen Johnson Nickles Flock Kennedy\nDec 16 Duckworth Annable Smith Moss Clark\n8:30pm Henry Only Up Curl Jam Cole Kohlenberg",
+      "page": 2
+    },
+    {
+      "line": "6:15pm Curl Jam Kennedy Only Up Annable Henry Smith Cole Poole",
+      "context": "8:30pm Henry Only Up Curl Jam Cole Kohlenberg\nJan 6 Clark Moss Moody Duckworth Kohlenberg Flock Linder Brill\n6:15pm Curl Jam Kennedy Only Up Annable Henry Smith Cole Poole\nJan 6 Balderston Rollins The Pants MACH Waddell\n8:30pm Nickles Larsen Johnson Crushmore Boog",
+      "page": 2
+    },
+    {
+      "line": "6:15pm Boog Poole Larsen Nickles Crushmore MACH Kennedy Curl Jam",
+      "context": "Date Sheet 1 Sheet 2 Sheet 3 Sheet 4 Sheet 5 Sheet 6 Sheet 7 Sheet 8\nJan 13 The Pants Waddell Brill Linder Balderston Rollins Johnson Kohlenberg\n6:15pm Boog Poole Larsen Nickles Crushmore MACH Kennedy Curl Jam\nJan 13 Clark Moss Cole Moody Duckworth\n8:30pm Annable Henry Only Up Smith Flock",
+      "page": 3
+    }
+  ],
+  "roster_raw_data": [
+    [
+      "John Poole",
+      "jdpoole@gmail.com",
+      "Riley Fairbanks ",
+      "fairbanks.riley@gmail.com",
+      "Curtis Fairhurst",
+      "fairhurstcurtis@gmail.com",
+      "Sheldon Cameron",
+      "sheldon.cameron@icloud.com"
+    ],
+    [
+      "John Poole",
+      "jdpoole@gmail.com",
+      "Riley Fairbanks ",
+      "fairbanks.riley@gmail.com",
+      "Curtis Fairhurst",
+      "fairhurstcurtis@gmail.com",
+      "Sheldon Cameron",
+      "sheldon.cameron@icloud.com"
+    ],
+    [
+      "Doug Annable",
+      "doug.annable@shaw.ca",
+      "Ryan Duckworth",
+      "duckworthryan@icloud.com",
+      "Brendan Nickles",
+      "brendan.nickles@gmail.com",
+      "John Poole",
+      "jdpoole@gmail.com",
+      NaN,
+      NaN,
+      NaN
+    ],
+    [
+      "Doug Annable",
+      "doug.annable@shaw.ca",
+      "Ryan Duckworth",
+      "duckworthryan@icloud.com",
+      "Brendan Nickles",
+      "brendan.nickles@gmail.com",
+      "John Poole",
+      "jdpoole@gmail.com",
+      NaN,
+      NaN,
+      NaN
+    ],
+    [
+      NaN,
+      NaN,
+      NaN,
+      NaN,
+      NaN,
+      NaN,
+      NaN,
+      NaN,
+      NaN,
+      13,
+      "Poole"
+    ],
+    [
+      "Lindsay Ford",
+      "lindsaymford@icloud.com",
+      "Brad Flock",
+      "bradnet@shaw.ca",
+      "John Poole",
+      "jdpoole@gmail.com",
+      "Doug Annable",
+      "cdannable@shaw.ca"
+    ],
+    [
+      "Lindsay Ford",
+      "lindsaymford@icloud.com",
+      "Brad Flock",
+      "bradnet@shaw.ca",
+      "John Poole",
+      "jdpoole@gmail.com",
+      "Doug Annable",
+      "cdannable@shaw.ca"
+    ]
+  ],
+  "league_info": "Monday Men's"
+}
