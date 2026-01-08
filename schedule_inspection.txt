@@ -1,0 +1,169 @@
+
+================================================================================
+EXTRACTING SCHEDULE DATA - VISUAL INSPECTION
+================================================================================
+
+================================================================================
+Processing: Monday Night
+================================================================================
+
+--- Page 1 ---
+
+Table 1:
+
+Found Poole in row 2:
+Row content: [None, '6:15pm', None, None, 'Christie', None, None, 'Pinder', None, None, 'Marshall', None, None, 'Poole', None, None, 'Robinson', None, None, 'Cameron', None, None, 'Ferguson', None, None, 'Kelly', None]
+Previous row: ['', 'Oct 6', '', '', 'Birrell', '', '', 'Snethun', '', '', 'Moss', '', '', 'Plaid Lads', '', '', 'Erickson', '', '', 'Bailey', '', '', 'Wright', '', '', 'Fairbanks', '']
+Next row: ['', 'Oct 6', '', '', 'Phelps', '', '', 'Gregg', '', '', 'Bonyai', '', '', 'Williams', '', '', 'Kennedy', '', '', 'Linder', '', '', None, None, '', None, None]
+
+Found Poole in row 7:
+Row content: ['', 'Oct 20', '', 'Bailey Christie Birrell Moss Snethun Erickson\nWright Marshall Pinder Robinson Poole Ferguson', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, '', None, None, None, None, None]
+Previous row: [None, '6:15pm', None, None, 'Fairbanks', None, None, 'Martin', None, None, 'Kerbals', None, None, 'OÆNeil', None, None, 'Carson', None, None, 'Kelly', None, None, 'Bowman', None, None, 'Cameron', None]
+Next row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+
+Found Poole in row 10:
+Row content: [None, '6:15pm', None, None, 'Cameron', None, None, 'Wright', None, None, 'Robinson', None, None, 'Marshall', None, None, 'Ferguson', None, None, 'Poole', None, None, 'Bailey', None, None, 'Linder', None]
+Previous row: ['', 'Oct 27', '', '', 'Snethun', '', '', 'Plaid Lads', '', '', 'Christie', '', '', 'Birrell', '', '', 'Moss', '', '', 'Pinder', '', '', 'Erickson', '', '', 'Kennedy', '']
+Next row: ['', 'Oct 27', '', '', 'Gregg', '', '', 'Williams', '', '', 'Fairhurst', '', '', 'Phelps', '', '', 'Bonyai', '', '', 'Kerbals', '', '', None, None, '', None, None]
+
+Found Poole in row 14:
+Row content: [None, '6:15pm', None, None, 'Kennedy', None, None, 'Fairbanks', None, None, 'Bowman', None, None, 'Kelly', None, None, 'Carson', None, None, 'OÆNeil', None, None, 'Linder', None, None, 'Poole', None]
+Previous row: ['', 'Nov 3', '', '', 'Williams', '', '', 'Gregg', '', '', 'Kerbals', '', '', 'Fairhurst', '', '', 'Phelps', '', '', 'Martin', '', '', 'Bonyai', '', '', 'Birrell', '']
+Next row: ['', 'Nov 3', '', 'Plaid Lads Moss Snethun Pinder Marshall Christie\nErickson Bailey Wright Cameron Robinson Ferguson', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, '', None, None, None, None, None]
+
+Found Poole in row 17:
+Row content: ['', 'Nov 10', '', '', 'Pinder', '', '', 'Christie', '', '', 'Moss', '', '', 'Snethun', '', '', 'Poole', '', '', 'Birrell', '', '', 'Marshall', '', '', 'Bonyai', '']
+Previous row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+Next row: [None, '6:15pm', None, None, 'Wright', None, None, 'Bailey', None, None, 'Plaid Lads', None, None, 'Erickson', None, None, 'Camerson', None, None, 'Robinson', None, None, 'Ferguson', None, None, 'Williams', None]
+
+Found Poole in row 23:
+Row content: ['', 'Nov 17', '', '', 'Marshall', '', '', 'Pinder', '', '', 'Poole', '', '', 'Christie', '', '', 'Snethun', '', '', 'Birrell', '', '', None, None, '', None, None]
+Previous row: [None, '6:15pm', None, None, 'Bowman', None, None, 'Kennedy', None, None, 'Linder', None, None, 'Williams', None, None, 'Bonyai', None, None, 'Kelly', None, None, 'Fairbanks', None, None, 'Ferguson', None]
+Next row: [None, '8:30pm', None, None, 'Bailey', None, None, 'Erickson', None, None, 'Wright', None, None, 'Plaid Lads', None, None, 'Moss', None, None, 'Camerson', None, None, None, None, None, None, None]
+
+--- Page 2 ---
+
+Table 1:
+
+Found Poole in row 1:
+Row content: ['', 'Nov 24', '', '', 'Cameron', '', '', 'Robinson', '', '', 'Poole', '', '', 'Marshall', '', '', 'Birrell', '', '', 'Christie', '', '', 'Pinder', '', '', 'Fairhurst', '']
+Previous row: ['Date', None, None, 'Sheet 1', None, None, 'Sheet 2', None, None, 'Sheet 3', None, None, 'Sheet 4', None, None, 'Sheet 5', None, None, 'Sheet 6', None, None, 'Sheet 7', None, None, 'Sheet 8', None, None]
+Next row: [None, '6:15pm', None, None, 'Wright', None, None, 'Bailey', None, None, 'Erickson', None, None, 'Plaid Lads', None, None, 'Ferguson', None, None, 'Snethun', None, None, 'Moss', None, None, 'Gregg', None]
+
+Found Poole in row 7:
+Row content: ['', 'Dec 1', '', 'Poole Birrell Ferguson Camerson Robinson Pinder\nMoss Wright Bailey Erickson Plaid Lads Christie', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, '', None, None, None, None, None]
+Previous row: [None, '6:15pm', None, None, 'Fairbanks', None, None, 'Linder', None, None, 'Williams', None, None, 'Kennedy', None, None, 'Bonyai', None, None, 'Fairhurst', None, None, 'Gregg', None, None, 'Snethun', None]
+Next row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+
+Found Poole in row 9:
+Row content: ['', 'Dec 8', '', '', 'Birrell', '', '', 'Marshall', '', '', 'Wright', '', '', 'Ferguson', '', '', 'Cameron', '', '', 'Robinson', '', '', 'Poole', '', '', 'Martin', '']
+Previous row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+Next row: [None, '6:15pm', None, None, 'Bailey', None, None, 'Pinder', None, None, 'Erickson', None, None, 'Plaid Lads', None, None, 'Moss', None, None, 'Snethun', None, None, 'Christie', None, None, 'Kerbals', None]
+
+Found Poole in row 15:
+Row content: ['', 'Dec 15', '', 'Robinson Birrell Poole Ferguson Bailey Camerson\nPinder Erickson Marhsall Snethun Plaid Lads Christie', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, '', None, None, None, None, None]
+Previous row: [None, '6:15pm', None, None, 'Kerbals', None, None, 'Martin', None, None, 'Fairhurst', None, None, 'Gregg', None, None, 'Bonyai', None, None, 'Williams', None, None, 'Kennedy', None, None, 'Moss', None]
+Next row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+
+Found Poole in row 18:
+Row content: [None, '6:15pm', None, None, 'Moss', None, None, 'Marshall', None, None, 'Snethun', None, None, 'Christie', None, None, 'Pinder', None, None, 'Plaid Lads', None, None, 'Poole', None, None, 'Carson', None]
+Previous row: ['', 'Jan 5', '', '', 'Erickson', '', '', 'Cameron', '', '', 'Bailey', '', '', 'Wright', '', '', 'Ferguson', '', '', 'Birrell', '', '', 'Robinson', '', '', 'OÆNeil', '']
+Next row: ['', 'Jan 5', '', '', 'Fairbanks', '', '', 'Bowman', '', '', 'Kennedy', '', '', 'Phelps', '', '', 'Linder', '', '', 'Kelly', '', '', None, None, '', None, None]
+
+Found Poole in row 24:
+Row content: [None, '8:30pm', None, None, 'Pinder', None, None, 'Marshall', None, None, 'Poole', None, None, 'Robinson', None, None, 'Moss', None, None, 'Snethun', None, None, None, None, None, None, None]
+Previous row: ['', 'Jan 12', '', '', 'Bailey', '', '', 'Wright', '', '', 'Ferguson', '', '', 'Cameron', '', '', 'Birrell', '', '', 'Plaid Lads', '', '', None, None, '', None, None]
+
+--- Page 3 ---
+
+Table 1:
+
+Found Poole in row 2:
+Row content: [None, '6:15pm', None, None, 'Snethun', None, None, 'Christie', None, None, 'Cameron', None, None, 'Pinder', None, None, 'Marshall', None, None, 'Poole', None, None, 'Robinson', None, None, 'Gregg', None]
+Previous row: ['', 'Jan 19', '', '', 'Birrell', '', '', 'Moss', '', '', 'Ferguson', '', '', 'Plaid Lads', '', '', 'Erickson', '', '', 'Bailey', '', '', 'Wright', '', '', 'Phelps', '']
+Next row: ['', 'Jan 19', '', '', 'Bonyai', '', '', 'Kennedy', '', '', 'Linder', '', '', 'Fairbanks', '', '', 'Kelly', '', '', 'Williams', '', '', None, None, '', None, None]
+
+================================================================================
+Processing: Tuesday Night
+================================================================================
+
+--- Page 1 ---
+
+Table 1:
+
+Found Poole in row 2:
+Row content: [None, '6:15pm', None, None, 'Poole', None, None, 'Nickles', None, None, 'Larsen', None, None, 'Crushmore', None, None, 'MACH', None, None, 'Rollins', None, None, 'Moss', None, None, 'Flock', None]
+Previous row: ['', 'Oct 7', '', '', 'Boog', '', '', 'Johnson', '', '', 'Waddell', '', '', 'Linder', '', '', 'Brill', '', '', 'Balderston', '', '', 'The Pants', '', '', 'Clark', '']
+Next row: ['', 'Oct 7', '', '', 'Henry', '', '', 'Kennedy', '', '', 'Kohlenberg', '', '', 'Cole', '', '', 'Moody', '', '', None, None, '', None, None, '', None, None]
+
+Found Poole in row 7:
+Row content: ['', 'Oct 14', '', 'Brill The Pants Johnson Boog Linder\nBalderston Poole Crushmore Larsen Rollins', None, None, None, None, None, None, None, None, None, None, None, None, None, None, '', None, None, '', None, None, None, None, None]
+Previous row: [None, '6:15pm', None, None, 'Smith', None, None, 'Curl Jam', None, None, 'Duckworth', None, None, 'Annable', None, None, 'Flock', None, None, 'Moody', None, None, 'Only Up', None, None, 'MACH', None]
+Next row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+
+Found Poole in row 9:
+Row content: ['', 'Oct 22', '', '', 'The Pants', '', '', 'Boog', '', '', 'Johnson', '', '', 'Waddell', '', '', 'Poole', '', '', 'Linder', '', '', 'Crushmore', '', '', 'Moss', '']
+Previous row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+Next row: [None, '6:15pm', None, None, 'Nickles', None, None, 'MACH', None, None, 'Rollins', None, None, 'Balderston', None, None, 'Larsen', None, None, 'Brill', None, None, 'Smith', None, None, 'Only Up', None]
+
+Found Poole in row 15:
+Row content: ['', 'Oct 28', '', 'Waddell Johnson Boog Nickles Poole\nLinder Brill Balderston Crushmore MACH', None, None, None, None, None, None, None, None, None, None, None, None, None, None, '', None, None, '', None, None, None, None, None]
+Previous row: [None, '6:15pm', None, None, 'Cole', None, None, 'Clark', None, None, 'Moody', None, None, 'Annable', None, None, 'Smith', None, None, 'Flock', None, None, 'Duckworth', None, None, 'Larsen', None]
+Next row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+
+Found Poole in row 17:
+Row content: ['', 'Nov 4', '', '', 'Larsen', '', '', 'The Pants', '', '', 'Johnson', '', '', 'Boog', '', '', 'Nickles', '', '', 'Poole', '', '', 'Brill', '', '', 'Only Up', '']
+Previous row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+Next row: [None, '6:15pm', None, None, 'MACH', None, None, 'Crushmore', None, None, 'Waddell', None, None, 'Linder', None, None, 'Rollins', None, None, 'Balderston', None, None, 'Clark', None, None, 'Duckworth', None]
+
+Found Poole in row 23:
+Row content: ['', 'Nov 11', '', '', 'Poole', '', '', 'Nickles', '', '', 'The Pants', '', '', 'Larsen', '', '', 'Boog', '', '', None, None, '', None, None, '', None, None]
+Previous row: [None, '6:15pm', None, None, 'Duckworth', None, None, 'Flock', None, None, 'Moody', None, None, 'Cole', None, None, 'Kennedy', None, None, 'Clark', None, None, 'Kohlenberg', None, None, 'Rollins', None]
+Next row: [None, '8:30pm', None, None, 'Linder', None, None, 'Brill', None, None, 'MACH', None, None, 'Balderston', None, None, 'Johnson', None, None, None, None, None, None, None, None, None, None]
+
+--- Page 2 ---
+
+Table 1:
+
+Found Poole in row 1:
+Row content: ['', 'Nov 18', '', '', 'Crushmore', '', '', 'MACH', '', '', 'The Pants', '', '', 'Larsen', '', '', 'Nickles', '', '', 'Poole', '', '', 'Boog', '', '', 'Annable', '']
+Previous row: ['Date', None, None, 'Sheet 1', None, None, 'Sheet 2', None, None, 'Sheet 3', None, None, 'Sheet 4', None, None, 'Sheet 5', None, None, 'Sheet 6', None, None, 'Sheet 7', None, None, 'Sheet 8', None, None]
+Next row: [None, '6:15pm', None, None, 'Brill', None, None, 'Balderston', None, None, 'Rollins', None, None, 'Linder', None, None, 'Waddell', None, None, 'Johnson', None, None, 'Henry', None, None, 'Cole', None]
+
+Found Poole in row 5:
+Row content: ['', 'Nov 25', '', '', 'Only Up', '', '', 'Duckworth', '', '', 'Flock', '', '', 'Moss', '', '', 'Smith', '', '', 'Annable', '', '', 'Poole', '', '', 'Nickles', '']
+Previous row: [None, '8:30pm', None, None, 'Clark', None, None, 'Moody', None, None, 'Duckworth', None, None, 'Kohlenberg', None, None, 'Kennedy', None, None, None, None, None, None, None, None, None, None]
+Next row: [None, '6:15pm', None, None, 'Henry', None, None, 'Clark', None, None, 'Cole', None, None, 'Moody', None, None, 'Kohlenberg', None, None, 'Kennedy', None, None, 'Curl Jam', None, None, 'Boog', None]
+
+Found Poole in row 10:
+Row content: [None, '6:15pm', None, None, 'Boog', None, None, 'Poole', None, None, 'Linder', None, None, 'Waddell', None, None, 'Johnson', None, None, 'Brill', None, None, 'Annable', None, None, 'Kohlenberg', None]
+Previous row: ['', 'Dec 2', '', '', 'Crushmore', '', '', 'Nickles', '', '', 'Balderston', '', '', 'Rollins', '', '', 'MACH', '', '', 'The Pants', '', '', 'Larsen', '', '', 'Duckworth', '']
+Next row: ['', 'Dec 2', '', '', 'Smith', '', '', 'Only Up', '', '', 'Moody', '', '', 'Moss', '', '', 'Flock', '', '', None, None, '', None, None, '', None, None]
+
+Found Poole in row 15:
+Row content: ['', 'Dec 9', '', 'Larsen Rollins Crushmore The Pants Brill\nNickles Boog Poole Linder Waddell', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, '', None, None, None, None, None]
+Previous row: [None, '6:15pm', None, None, 'Kohlenberg', None, None, 'Curl Jam', None, None, 'Only Up', None, None, 'Annable', None, None, 'Henry', None, None, 'Kennedy', None, None, 'Moody', None, None, 'Johnson', None]
+Next row: [None, '8:30pm', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+
+Found Poole in row 18:
+Row content: [None, '6:15pm', None, None, 'Poole', None, None, 'Waddell', None, None, 'Boog', None, None, 'Larsen', None, None, 'Johnson', None, None, 'Nickles', None, None, 'Flock', None, None, 'Kennedy', None]
+Previous row: ['', 'Dec 16', '', '', 'Rollins', '', '', 'The Pants', '', '', 'Brill', '', '', 'Crushmore', '', '', 'Linder', '', '', 'MACH', '', '', 'Balderston', '', '', 'Moody', '']
+Next row: ['', 'Dec 16', '', '', 'Duckworth', '', '', 'Annable', '', '', 'Smith', '', '', 'Moss', '', '', 'Clark', '', '', None, None, '', None, None, '', None, None]
+
+Found Poole in row 22:
+Row content: [None, '6:15pm', None, None, 'Curl Jam', None, None, 'Kennedy', None, None, 'Only Up', None, None, 'Annable', None, None, 'Henry', None, None, 'Smith', None, None, 'Cole', None, None, 'Poole', None]
+Previous row: ['', 'Jan 6', '', '', 'Clark', '', '', 'Moss', '', '', 'Moody', '', '', 'Duckworth', '', '', 'Kohlenberg', '', '', 'Flock', '', '', 'Linder', '', '', 'Brill', '']
+Next row: ['', 'Jan 6', '', '', 'Balderston', '', '', 'Rollins', '', '', 'The Pants', '', '', 'MACH', '', '', 'Waddell', '', '', '', '', '', None, None, '', None, None]
+
+--- Page 3 ---
+
+Table 1:
+
+Found Poole in row 2:
+Row content: [None, '6:15pm', None, None, 'Boog', None, None, 'Poole', None, None, 'Larsen', None, None, 'Nickles', None, None, 'Crushmore', None, None, 'MACH', None, None, 'Kennedy', None, None, 'Curl Jam', None]
+Previous row: ['', 'Jan 13', '', '', 'The Pants', '', '', 'Waddell', '', '', 'Brill', '', '', 'Linder', '', '', 'Balderston', '', '', 'Rollins', '', '', 'Johnson', '', '', 'Kohlenberg', '']
+Next row: ['', 'Jan 13', '', '', 'Clark', '', '', 'Moss', '', '', 'Cole', '', '', 'Moody', '', '', 'Duckworth', '', '', None, None, '', None, None, '', None, None]
+
+================================================================================
+Please review the output above to verify opponent names
+================================================================================

@@ -9,91 +9,63 @@
       "date": "Oct 6",
       "time": "6:15pm",
       "sheet": 4,
-      "opponent": "Marshall",
-      "league": "Monday Night"
-    },
-    {
-      "date": "Oct 20",
-      "time": "8:30pm",
-      "sheet": 5,
-      "opponent": "Robinson",
+      "opponent": "Plaid Lads",
       "league": "Monday Night"
     },
     {
       "date": "Oct 27",
       "time": "6:15pm",
       "sheet": 6,
-      "opponent": "Ferguson",
+      "opponent": "Pinder",
       "league": "Monday Night"
     },
     {
       "date": "Nov 3",
       "time": "6:15pm",
       "sheet": 8,
-      "opponent": "Linder",
+      "opponent": "Birrell",
       "league": "Monday Night"
     },
     {
       "date": "Nov 10",
-      "time": "6:15pm",
+      "time": "8:30pm",
       "sheet": 5,
-      "opponent": "Birrell",
+      "opponent": "Camerson",
       "league": "Monday Night"
     },
     {
       "date": "Nov 17",
-      "time": "8:30pm",
-      "sheet": 3,
-      "opponent": "Pinder",
-      "league": "Monday Night"
-    },
-    {
-      "date": "Nov 24",
       "time": "6:15pm",
       "sheet": 3,
-      "opponent": "Marshall",
-      "league": "Monday Night"
-    },
-    {
-      "date": "Dec 1",
-      "time": "8:30pm",
-      "sheet": 1,
-      "opponent": "Birrell",
+      "opponent": "Linder",
       "league": "Monday Night"
     },
     {
       "date": "Dec 8",
-      "time": "6:15pm",
-      "sheet": 7,
-      "opponent": "Martin",
-      "league": "Monday Night"
-    },
-    {
-      "date": "Dec 15",
       "time": "8:30pm",
-      "sheet": 3,
-      "opponent": "Ferguson",
+      "sheet": 7,
+      "opponent": "Christie",
       "league": "Monday Night"
     },
     {
       "date": "Jan 5",
       "time": "6:15pm",
       "sheet": 7,
-      "opponent": "Carson",
+      "opponent": "Robinson",
       "league": "Monday Night"
     },
     {
       "date": "Jan 12",
       "time": "8:30pm",
       "sheet": 3,
-      "opponent": "Robinson",
+      "opponent": "Ferguson",
       "league": "Monday Night"
     },
     {
       "date": "Jan 19",
       "time": "6:15pm",
       "sheet": 6,
-      "opponent": "Robinson",
+      "opponent": "Bailey",
       "league": "Monday Night"
     },
     {
@@ -104,52 +76,31 @@
       "league": "Tuesday Night"
     },
     {
-      "date": "Oct 14",
-      "time": "8:30pm",
-      "sheet": 2,
-      "opponent": "Balderston",
-      "league": "Tuesday Night"
-    },
-    {
       "date": "Oct 22",
-      "time": "6:15pm",
-      "sheet": 5,
-      "opponent": "Linder",
-      "league": "Tuesday Night"
-    },
-    {
-      "date": "Oct 28",
       "time": "8:30pm",
       "sheet": 5,
-      "opponent": "MACH",
+      "opponent": "Larsen",
       "league": "Tuesday Night"
     },
     {
       "date": "Nov 4",
-      "time": "6:15pm",
+      "time": "8:30pm",
       "sheet": 6,
-      "opponent": "Brill",
+      "opponent": "Balderston",
       "league": "Tuesday Night"
     },
     {
       "date": "Nov 11",
-      "time": "8:30pm",
-      "sheet": 1,
-      "opponent": "Linder",
-      "league": "Tuesday Night"
-    },
-    {
-      "date": "Nov 18",
       "time": "6:15pm",
-      "sheet": 6,
-      "opponent": "Johnson",
+      "sheet": 1,
+      "opponent": "Duckworth",
       "league": "Tuesday Night"
     },
     {
       "date": "Nov 25",
-      "time": "6:15pm",
+      "time": "8:30pm",
       "sheet": 7,
-      "opponent": "Nickles",
+      "opponent": "Curl Jam",
       "league": "Tuesday Night"
     },
     {
@@ -160,24 +111,17 @@
       "league": "Tuesday Night"
     },
     {
-      "date": "Dec 9",
-      "time": "8:30pm",
-      "sheet": 3,
-      "opponent": "Linder",
-      "league": "Tuesday Night"
-    },
-    {
       "date": "Dec 16",
       "time": "6:15pm",
       "sheet": 1,
-      "opponent": "Waddell",
+      "opponent": "Rollins",
       "league": "Tuesday Night"
     },
     {
       "date": "Jan 6",
       "time": "6:15pm",
       "sheet": 8,
-      "opponent": "Cole",
+      "opponent": "Brill",
       "league": "Tuesday Night"
     },
     {
@@ -196,7 +140,8 @@
         "John Poole",
         "Jason Grelowski",
         "Bryan Jensen",
-        "Phillip LaFlair"
+        "Phillip LaFlair",
+        "Brad Culver"
       ]
     },
     {
@@ -206,7 +151,8 @@
         "John Poole",
         "Jason Grelowski",
         "Thad Snethun",
-        "Glen Phelps"
+        "Glen Phelps",
+        "Brad Culver"
       ]
     }
   ],
