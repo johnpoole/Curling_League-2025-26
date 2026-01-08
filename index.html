@@ -418,18 +418,18 @@
 
             detailsDiv.innerHTML = `
                 <div class="details-header">
-                    <h2>Game Details - ${game.date} at ${game.time}</h2>
+                    <h2>${game.date} at ${game.time}</h2>
                     <p style="color: #666; font-size: 1.1em; margin-top: 10px;">
                         ${game.league} | Sheet ${game.sheet}
                     </p>
                 </div>
                 <div class="details-grid">
                     <div class="roster-section">
-                        <h3>Team Poole (Us)</h3>
+                        <h3>Poole</h3>
                         ${ourPlayersHTML}
                     </div>
                     <div class="roster-section">
-                        <h3>Team ${game.opponent} (Opponent)</h3>
+                        <h3>${game.opponent}</h3>
                         ${opponentPlayersHTML}
                     </div>
                 </div>
