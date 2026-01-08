@@ -362,10 +362,10 @@
                 games = games.filter(g => g.league === currentLeague);
             }
 
-            // Sort games by date
+            // Sort games by date (season starts in Oct, ends in Mar)
             games.sort((a, b) => {
                 const months = {
-                    'Oct': 10, 'Nov': 11, 'Dec': 12, 'Jan': 1, 'Feb': 2, 'Mar': 3
+                    'Oct': 1, 'Nov': 2, 'Dec': 3, 'Jan': 4, 'Feb': 5, 'Mar': 6, 'Apr': 7
                 };
                 const [monthA, dayA] = a.date.split(' ');
                 const [monthB, dayB] = b.date.split(' ');
