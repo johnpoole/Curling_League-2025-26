@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+Total Friday games: 13
+Unique opponents: 7
+Teams with rosters: 26
+
+Schedule opponents:
+  File "C:\Users\jdpoo\Documents\GitHub\Curling_League 2025-26\check_friday_mismatches.py", line 18, in <module>
+    print(f"  {has_roster} {o}")
+  File "C:\Users\jdpoo\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 2: character maps to <undefined>

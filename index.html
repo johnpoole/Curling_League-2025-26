@@ -281,6 +281,7 @@
             <div class="league-tabs">
                 <div class="league-tab active" data-league="Monday Night">Monday Night</div>
                 <div class="league-tab" data-league="Tuesday Night">Tuesday Night</div>
+                <div class="league-tab" data-league="Friday Night Mixed">Friday Night Mixed</div>
                 <div class="league-tab" data-league="all">All Games</div>
             </div>
         </header>
@@ -410,6 +411,16 @@
                     '</ul>';
             }
 
+            // Get opponent record
+            const standings = teamData.standings;
+            let recordHTML = '';
+            if (standings && standings[game.league] && standings[game.league][game.opponent]) {
+                const record = standings[game.league][game.opponent];
+                recordHTML = `<p style="font-size: 1.1em; color: #1e3c72; font-weight: 600; margin-top: 10px;">
+                    Record: ${record.wins}-${record.losses}${record.ties > 0 ? '-' + record.ties : ''}
+                </p>`;
+            }
+
             detailsDiv.innerHTML = `
                 <div class="details-header">
                     <h2>${game.date} at ${game.time}</h2>
@@ -420,6 +431,7 @@
                 <div class="details-grid">
                     <div class="roster-section">
                         <h3>${game.opponent}</h3>
+                        ${recordHTML}
                         ${opponentPlayersHTML}
                     </div>
                 </div>
