@@ -410,12 +410,6 @@
                     '</ul>';
             }
 
-            // Get our roster for this league
-            const ourRoster = teamData.rosters.find(r => r.league === game.league);
-            const ourPlayersHTML = ourRoster ? 
-                '<ul class="roster-list">' + ourRoster.players.map(player => `<li>${player}</li>`).join('') + '</ul>' :
-                '<p class="no-roster">Roster not available</p>';
-
             detailsDiv.innerHTML = `
                 <div class="details-header">
                     <h2>${game.date} at ${game.time}</h2>
@@ -424,10 +418,6 @@
                     </p>
                 </div>
                 <div class="details-grid">
-                    <div class="roster-section">
-                        <h3>Poole</h3>
-                        ${ourPlayersHTML}
-                    </div>
                     <div class="roster-section">
                         <h3>${game.opponent}</h3>
                         ${opponentPlayersHTML}
