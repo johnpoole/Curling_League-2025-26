@@ -401,16 +401,6 @@
             // Add selected class to clicked card
             document.querySelectorAll('.game-card')[index].classList.add('selected');
             
-            // Get Poole roster
-            const pooleRoster = teamData.all_team_rosters['Poole'];
-            let poolePlayersHTML = '<p class="no-roster">Roster information not available</p>';
-            
-            if (pooleRoster && pooleRoster[game.league]) {
-                poolePlayersHTML = '<ul class="roster-list">' +
-                    pooleRoster[game.league].map(player => `<li>${player}</li>`).join('') +
-                    '</ul>';
-            }
-
             // Get opponent roster
             const opponentRoster = teamData.all_team_rosters[game.opponent];
             let opponentPlayersHTML = '<p class="no-roster">Roster information not available</p>';
@@ -439,10 +429,6 @@
                     </p>
                 </div>
                 <div class="details-grid">
-                    <div class="roster-section">
-                        <h3>Poole</h3>
-                        ${poolePlayersHTML}
-                    </div>
                     <div class="roster-section">
                         <h3>${game.opponent}</h3>
                         ${recordHTML}
