@@ -327,7 +327,7 @@ body {
         let currentLeague = 'Monday Night';
         let selectedGameIndex = null;
 
-        // Load the JSON data
+// Load the JSON data
         fetch('poole_team_data.json')
             .then(response => response.json())
             .then(data => {
@@ -335,6 +335,7 @@ body {
                 updateRosterDisplay();
                 displayGames();
                 setupLeagueTabs();
+                handleUrlParameters();
             })
             .catch(error => {
                 console.error('Error loading data:', error);
@@ -410,7 +411,7 @@ body {
             window.currentGames = games;
         }
 
-        function showGameDetails(index) {
+function showGameDetails(index) {
             const game = window.currentGames[index];
             const detailsDiv = document.getElementById('gameDetails');
             
@@ -421,6 +422,11 @@ body {
             
             // Add selected class to clicked card
             document.querySelectorAll('.game-card')[index].classList.add('selected');
+            
+            // Update URL with game identifier
+            const gameIdentifier = `${game.date.replace(/\s+/g, '-').toLowerCase()}-${game.opponent.replace(/\s+/g, '-').toLowerCase()}`;
+            const newUrl = `${window.location.pathname}?game=${gameIdentifier}&league=${encodeURIComponent(game.league)}`;
+            window.history.pushState({ gameIndex: index }, '', newUrl);
             
             // Get opponent roster
             const opponentRoster = teamData.all_team_rosters[game.opponent];
@@ -458,9 +464,56 @@ body {
                 </div>
             `;
 
-            detailsDiv.classList.add('visible');
+detailsDiv.classList.add('visible');
             detailsDiv.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         }
+
+        function handleUrlParameters() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const gameParam = urlParams.get('game');
+            const leagueParam = urlParams.get('league');
+            
+            if (leagueParam && leagueParam !== currentLeague) {
+                // Switch to the correct league tab
+                const tabs = document.querySelectorAll('.league-tab');
+                tabs.forEach(tab => {
+                    tab.classList.remove('active');
+                    if (tab.dataset.league === leagueParam) {
+                        tab.classList.add('active');
+                        currentLeague = leagueParam;
+                    }
+                });
+                updateRosterDisplay();
+                displayGames();
+            }
+            
+            if (gameParam) {
+                // Find and show the specific game
+                setTimeout(() => {
+                    const gameIndex = window.currentGames.findIndex(game => {
+                        const gameIdentifier = `${game.date.replace(/\s+/g, '-').toLowerCase()}-${game.opponent.replace(/\s+/g, '-').toLowerCase()}`;
+                        return gameIdentifier === gameParam;
+                    });
+                    
+                    if (gameIndex !== -1) {
+                        showGameDetails(gameIndex);
+                    }
+                }, 100);
+            }
+        }
+
+        // Handle browser back/forward buttons
+        window.addEventListener('popstate', function(event) {
+            if (event.state && event.state.gameIndex !== undefined) {
+                showGameDetails(event.state.gameIndex);
+            } else {
+                // No game selected, hide details
+                document.getElementById('gameDetails').classList.remove('visible');
+                document.querySelectorAll('.game-card').forEach(card => {
+                    card.classList.remove('selected');
+                });
+            }
+        });
     </script>
 </body>
 </html>
