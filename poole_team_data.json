@@ -29,7 +29,7 @@
     },
     {
       "date": "Oct 22",
-      "time": "8:30pm",
+      "time": "6:15pm",
       "sheet": 5,
       "opponent": "Larsen",
       "league": "Tuesday Night"
@@ -64,7 +64,7 @@
     },
     {
       "date": "Nov 4",
-      "time": "8:30pm",
+      "time": "6:15pm",
       "sheet": 6,
       "opponent": "Balderston",
       "league": "Tuesday Night"
@@ -85,9 +85,9 @@
     },
     {
       "date": "Nov 11",
-      "time": "6:15pm",
+      "time": "8:30pm",
       "sheet": 1,
-      "opponent": "Duckworth",
+      "opponent": "Linder",
       "league": "Tuesday Night"
     },
     {
@@ -98,6 +98,13 @@
       "league": "Monday Night"
     },
     {
+      "date": "Nov 18",
+      "time": "6:15pm",
+      "sheet": 6,
+      "opponent": "Johnson",
+      "league": "Tuesday Night"
+    },
+    {
       "date": "Nov 21",
       "time": "6:15pm",
       "sheet": 4,
@@ -106,7 +113,7 @@
     },
     {
       "date": "Nov 25",
-      "time": "8:30pm",
+      "time": "6:15pm",
       "sheet": 7,
       "opponent": "Curl Jam",
       "league": "Tuesday Night"
@@ -203,11 +210,25 @@
       "league": "Monday Night"
     },
     {
+      "date": "Jan 20",
+      "time": "8:30pm",
+      "sheet": 1,
+      "opponent": "Clark",
+      "league": "Tuesday Night"
+    },
+    {
       "date": "Jan 30",
       "time": "8:00pm",
       "sheet": 2,
       "opponent": "House Hunters",
       "league": "Friday Night Mixed"
+    },
+    {
+      "date": "Feb 3",
+      "time": "8:30pm",
+      "sheet": 5,
+      "opponent": "Smith",
+      "league": "Tuesday Night"
     },
     {
       "date": "Feb 6",
@@ -217,11 +238,25 @@
       "league": "Friday Night Mixed"
     },
     {
+      "date": "Feb 17",
+      "time": "8:30pm",
+      "sheet": 2,
+      "opponent": "Kohlenberg",
+      "league": "Tuesday Night"
+    },
+    {
       "date": "Feb 27",
       "time": "8:00pm",
       "sheet": 4,
       "opponent": "Team Bernbaum",
       "league": "Friday Night Mixed"
+    },
+    {
+      "date": "Mar 3",
+      "time": "8:30pm",
+      "sheet": 1,
+      "opponent": "Crushmore",
+      "league": "Tuesday Night"
     }
   ],
   "rosters": [

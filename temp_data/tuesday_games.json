@@ -1,0 +1,100 @@
+[
+  {
+    "date": "Oct 7",
+    "time": "6:15pm",
+    "sheet": 1,
+    "opponent": "Boog",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Oct 22",
+    "time": "6:15pm",
+    "sheet": 5,
+    "opponent": "Larsen",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Nov 4",
+    "time": "6:15pm",
+    "sheet": 6,
+    "opponent": "Balderston",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Nov 11",
+    "time": "8:30pm",
+    "sheet": 1,
+    "opponent": "Linder",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Nov 18",
+    "time": "6:15pm",
+    "sheet": 6,
+    "opponent": "Johnson",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Nov 25",
+    "time": "6:15pm",
+    "sheet": 7,
+    "opponent": "Curl Jam",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Dec 2",
+    "time": "6:15pm",
+    "sheet": 2,
+    "opponent": "Nickles",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Dec 16",
+    "time": "6:15pm",
+    "sheet": 1,
+    "opponent": "Rollins",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Jan 6",
+    "time": "6:15pm",
+    "sheet": 8,
+    "opponent": "Brill",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Jan 13",
+    "time": "6:15pm",
+    "sheet": 2,
+    "opponent": "Waddell",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Jan 20",
+    "time": "8:30pm",
+    "sheet": 1,
+    "opponent": "Clark",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Feb 3",
+    "time": "8:30pm",
+    "sheet": 5,
+    "opponent": "Smith",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Feb 17",
+    "time": "8:30pm",
+    "sheet": 2,
+    "opponent": "Kohlenberg",
+    "league": "Tuesday Night"
+  },
+  {
+    "date": "Mar 3",
+    "time": "8:30pm",
+    "sheet": 1,
+    "opponent": "Crushmore",
+    "league": "Tuesday Night"
+  }
+]
